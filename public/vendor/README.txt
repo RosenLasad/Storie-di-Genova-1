@@ -1,0 +1,1 @@
+QR code generati localmente con node-qrcode (MIT). Nessun URL viene inviato a servizi QR esterni.
